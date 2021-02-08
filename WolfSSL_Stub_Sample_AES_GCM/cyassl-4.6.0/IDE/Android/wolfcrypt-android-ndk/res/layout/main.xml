@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    <!-- output text box -->
+    <FrameLayout android:id="@+id/frameLayout1"
+            android:layout_width="match_parent"
+            android:background="#cccccc"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
+            android:layout_marginTop="5px"
+            android:layout_weight="1"
+            android:layout_height="fill_parent" >
+        <TextView android:id="@+id/textView1"
+                android:text=""
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:textColor="#000"
+                android:scrollbars="vertical"
+                android:gravity="top"
+                android:textSize="2pt" >
+        </TextView>
+    </FrameLayout>
+    <Button android:id="@+id/runButton"
+            android:text="Run SHA Test"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5px"
+            android:layout_marginBottom="5px"
+            android:layout_marginRight="5px"
+            android:layout_marginLeft="5px"
+            android:textStyle="bold" >
+    </Button>
+</LinearLayout>

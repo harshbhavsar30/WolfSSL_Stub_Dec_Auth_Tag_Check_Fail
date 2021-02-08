@@ -1,0 +1,128 @@
+﻿  wolfcrypt_last.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  wolfcrypt_first.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  wc_port.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  wc_encrypt.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  tls.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  tfm.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ssl.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+d:\branch\gitrepos\wolfssl_stub_dec_auth_tag_check_fail\wolfssl_stub_sample_aes_gcm\cyassl-4.6.0\src\ssl.c(138): warning C4005: 'WOLFSSL_EVP_INCLUDED' : macro redefinition
+          command-line arguments :  see previous definition of 'WOLFSSL_EVP_INCLUDED'
+  srp.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  sniffer.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  signature.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  sha512.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  sha256.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  sha.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  rsa.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ripemd.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  random.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  rabbit.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  pwdbased.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  poly1305.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  pkcs7.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+d:\branch\gitrepos\wolfssl_stub_dec_auth_tag_check_fail\wolfssl_stub_sample_aes_gcm\cyassl-4.6.0\wolfcrypt\src\pkcs7.c(4915): warning C4244: 'initializing' : conversion from 'word16' to 'byte', possible loss of data
+  Generating Code...
+  Compiling...
+  pkcs12.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ocsp.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  memory.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  md5.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  md4.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  md2.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  logging.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  keys.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  internal.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  integer.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  idea.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  hmac.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  hc128.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  hash.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ge_operations.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ge_low_mem.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  fips_test.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  fips.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  fe_operations.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  fe_low_mem.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  Generating Code...
+  Compiling...
+  error.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ed25519.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ecc_fp.c
+  ecc.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  dsa.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  dh.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  des3.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  curve25519.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  crl.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  compress.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  coding.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  chacha20_poly1305.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  chacha.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  camellia.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  blake2b.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  asn.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  asm.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  arc4.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  aes.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  wolfio.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  Generating Code...
+  wolfssl_fips_video.vcxproj -> D:\Branch\GitRepos\WolfSSL_Stub_Dec_Auth_Tag_Check_Fail\WolfSSL_Stub_Sample_AES_GCM\Debug\wolfssl_fips_video.lib
